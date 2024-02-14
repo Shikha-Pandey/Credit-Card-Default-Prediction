@@ -2,7 +2,7 @@ Flask
 seaborn
 numpy
 scipy
-scikit-learn
+scikit-learn == 1.2.2
 matplotlib
 pandas
 streamlit
