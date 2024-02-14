@@ -5,5 +5,4 @@ seaborn
 pandas
 numpy
 scikit_learn
-pickle
-streamlit
+wincertstore==0.2
