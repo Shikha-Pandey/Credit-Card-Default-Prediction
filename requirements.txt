@@ -4,6 +4,6 @@ scikit-learn
 matplotlib
 pandas
 streamlit
-pickle
+pickle == 4.0
 gunicorn
 wincertstore==0.2
